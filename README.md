@@ -1,2 +1,2 @@
-# dio_desafios
+# Repositório do desafio DIO
 Desafios curso DIO -  Git/GitHub
